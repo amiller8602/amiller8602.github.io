@@ -1,0 +1,47 @@
+body {
+  background-color:rgb(138, 231, 188);
+}
+#wrapper {
+  margin: auto;
+  width: 80%;
+  background-color: green;
+  box-shadow: 5px 10px blue;
+}
+h1, h2, h3 {
+  text-align: center;
+}
+div {
+  margin: auto;
+  width: 90%;
+}
+.itembox {
+  background-color: rgb(227, 255, 71);
+  color: black;
+  border: 2px solid rgb(250, 130, 18);
+  border-radius: 10%;
+  padding: 20px;
+}
+.favorite {
+  background-color: rgb(255, 164, 255);
+  color: rgb(140, 0, 255);
+  border: 2px solid rgb(58, 209, 255);
+  border-radius: 10%;
+  padding: 20px;
+}
+ol {
+  background: wheat;
+  list-style-type: square;
+}
+ul {
+  background: wheat;
+  list-style-type: upper-roman;
+}
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 8px;
+  overflow: hidden;
+  float: auto;
+  display: block;
+  background-color: mintcream;
+}
