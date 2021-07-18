@@ -1,0 +1,29 @@
+img {
+  height: 300px;
+  width: 350px;
+}
+main {
+  background-color: rgb(26, 164, 173);
+  color: lightcyan;
+}
+body {
+  background-image: url("wowgreenpattern.PNG");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#borderimg {
+  width: 60%
+  margin: auto;
+  margin-top: 30px;
+}
+ul{
+  list-style-image: url("smallapple.png");
+}
+#specialborder {
+   border-image-slice:310 347 397 305;
+   border-image-width:20px 20px 20px 20px;
+   border-image-outset:0px 0px 0px 0px;
+   border-image-repeat:stretch stretch;
+   border-image-source:url("yellowring.png");
+   border-style:solid;
+}
