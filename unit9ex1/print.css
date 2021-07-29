@@ -1,0 +1,28 @@
+img{
+  display: none;
+}
+title{
+  display: none;
+}
+#nav{
+  display: none;
+}
+#news{
+  display: none;
+}
+#sidebar{
+  display: none;
+}
+#footer{
+  display: none;
+}
+body{
+  font-size: 20px;
+}
+html{
+  background-color: white;
+  color: black;
+}
+a{
+  visibility: visible;
+}
